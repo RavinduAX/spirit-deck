@@ -1,9 +1,9 @@
 import React from "react";
 
 const App = () => {
-  return <div>
+  return <div data-theme="light">
     <div className="text-4xl text-red-400">
-      spiritDeck
+      spiritDeck 
     </div>
   </div>;
 };
