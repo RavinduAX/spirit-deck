@@ -1,10 +1,9 @@
 import React from "react";
+import Homepage from "./pages/Homepage";
 
 const App = () => {
   return <div data-theme="light">
-    <div className="text-4xl text-red-400">
-      spiritDeck 
-    </div>
+    <Homepage/>
   </div>;
 };
 
